@@ -15,9 +15,9 @@ The goal of this assignment was to act as a financial advisor at a top-five glob
 
 ### Baseline Performance 
 
-![SVM Model Classification Report](Starter_Code/Images/svm_model_report.png)
+![SVM Model Classification Report](Images/svm_model_report.png)
 
-![SVM Model Cumalative Returns Plot](Starter_Code/Images/svm_model_returns_plot.png)
+![SVM Model Cumalative Returns Plot](Images/svm_model_returns_plot.png)
 
 Explain that this section focuses on setting up a baseline for the trading algorithm and includes the following steps:
 
